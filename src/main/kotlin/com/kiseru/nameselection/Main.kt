@@ -1,3 +1,5 @@
+package com.kiseru.nameselection
+
 const val POPULATION_SIZE = 100
 
 const val ELITE_RATE = 0.4

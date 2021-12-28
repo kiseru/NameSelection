@@ -1,3 +1,5 @@
+package com.kiseru.nameselection
+
 data class Genome(private val name: String) {
     fun getBadCharactersCount(target: String): Int {
         assertLengthEquality(target)
